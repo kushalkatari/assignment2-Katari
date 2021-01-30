@@ -19,3 +19,18 @@ It is very famous in india there are so many different types of biryani's availa
    2. Pizzas
 1. Come home
 ***
+
+***
+### Shopping
+* Go to the walmart
+* Buy Food
+   * Rice
+   * Chapathi
+   * Choclates
+   * Vegetables
+* Go to KFC
+   * Buy french fries 
+   * Buy chicken wings
+* Come home
+
+***
