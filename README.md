@@ -53,3 +53,25 @@ The following is the link to my About Me page
 
 >“Mathematicians deal with large numbers sometimes, but never in their income.”―*Isaac Asimov*
 ***
+***
+## Here is an example for kotlin program
+> Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.</br>
+Source Link:
+[https://en.wikipedia.org/wiki/Kotlin_(programming_language](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
+```
+// Hello, World! example
+fun main() {
+    val scope = "World"
+    println("Hello, $scope!")
+}
+
+fun main(args: Array<String>) {
+    for (arg in args) {
+        println(arg)
+    }
+}
+```
+Source code Link:
+[https://en.wikipedia.org/wiki/Kotlin_(programming_language](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
+
+***
