@@ -79,7 +79,7 @@ Source code Link:
 ## List of places that i would suggest
 | Location |Hours|Amount Payed|
 | :---: | :---: | :---: |
-|[Newyork](Images/NewYork.jpg)|10 hrs| $2000|
+|[Newyork](Images/Newyork.jpg)|10 hrs| $2000|
 |[Texas](Images/Texas.jpg)  |7 hrs  | $1500|
 |[California](Images/California.jpg)|15 hrs |$3000|
 |[Chicago](Images/Chicago.jpg)|11 hrs |$500|
