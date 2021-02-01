@@ -1,6 +1,6 @@
 # assignment2-Katari
 # Kushal satya durgaji Katari
-###### My favourite food is Biryani
+### My favourite food is Biryani
 I like this item because it is very **delicious** with all the spicy items and **chicken** mixed with.
 It is very famous in india there are so many different types of biryani's available. 
 
@@ -32,5 +32,19 @@ It is very famous in india there are so many different types of biryani's availa
    * Buy french fries 
    * Buy chicken wings
 * Come home
+
+***
+The following is the link to my About Me page
+</br> 
+[AboutMe.md](AboutMe.md)
+
+*** 
+## List of places that i would suggest
+| Location |Hours|Amount Payed|
+| :---: | :---: | :---: |
+|Newyork|10 hrs| $2000|
+|Texas  |7 hrs  | $1500|
+|California|15 hrs |$3000|
+|Chicago|11 hrs |$500|
 
 ***
