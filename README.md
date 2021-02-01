@@ -75,3 +75,12 @@ Source code Link:
 [https://en.wikipedia.org/wiki/Kotlin_(programming_language](https://en.wikipedia.org/wiki/Kotlin_(programming_language))
 
 ***
+*** 
+## List of places that i would suggest
+| Location |Hours|Amount Payed|
+| :---: | :---: | :---: |
+|[Newyork](Images/NewYork.jpg)|10 hrs| $2000|
+|[Texas](Images/Texas.jpg)  |7 hrs  | $1500|
+|[California](Images/California.jpg)|15 hrs |$3000|
+|[Chicago](Images/Chicago.jpg)|11 hrs |$500|
+Here are the link's to see the following pictures.
