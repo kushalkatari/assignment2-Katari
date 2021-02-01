@@ -46,5 +46,10 @@ The following is the link to my About Me page
 |Texas  |7 hrs  | $1500|
 |California|15 hrs |$3000|
 |Chicago|11 hrs |$500|
+***
+***
+## Pithy Quotes
+>“The best kind of praise is intelligent praise.”―*Rachel Heffington</br>*
 
+>“Mathematicians deal with large numbers sometimes, but never in their income.”―*Isaac Asimov*
 ***
